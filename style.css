@@ -1,4 +1,4 @@
- {margin:3 16px; padding:0 24px;font-size:24px;}
+ *{margin:3 16px; padding:0 24px;font-size:24px;}
 .cabecalho {background-color: rgb(12, 251, 255);color: white; 
     display:flex;
 justify-content: space-around; padding: 2% 24px;}
